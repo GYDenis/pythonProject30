@@ -8,7 +8,7 @@ class Application(App):
 
         but_together = BoxLayout()
 
-        my_but = Button(text="DENIS.travis2.16.yml", font_size=30, background_color="cyan")
+        my_but = Button(text="DENIS.travis2.25.yml", font_size=30, background_color="cyan")
 
         but_together.add_widget(my_but)
 
